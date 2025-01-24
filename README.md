@@ -20,7 +20,7 @@
 ***
 Загруженный файл должен быть помещён/скопирован в папку со скриптами в директорию установленной программы Adobe Acrobat PRO (***возможный путь: C:\Program Files\Adobe\Acrobat DC\Acrobat\Javascripts***), после этого нужно перезапустить программу Acrobat, если она была запущена. В меню "Редактирование" ("Edit"), появится новый пункт "Дополнительно" ("Additional").
 
-![pic](https://click48.ru/images/pic/no.jpg)
+![pic](https://github.com/monksbarn/js-script-pack-acrobat/blob/main/src/Screenshot.png)
 
 ### Возможности
 
